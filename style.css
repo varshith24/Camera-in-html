@@ -1,0 +1,5 @@
+video:hover{
+    height: fit-content;
+    opacity: 100%;
+    filter: brightness(120%);
+}
